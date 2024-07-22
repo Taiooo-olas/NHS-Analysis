@@ -14,7 +14,14 @@
 Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
 
-The focus of the project was to determine the allocation of services and which services should require more thanthe other. HEnse the project concentrated on these factors.
+The project's focus was to determine the allocation of services and which services should require more than the other. Hence the project concentrated on these factors.
+
+In order to evaluate campaign performance, we focused on the following key aspects:
+
+
+
+
+
 
 
 
