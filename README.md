@@ -11,6 +11,9 @@
 Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
 
+![nQm7-TGe_400x400](https://github.com/user-attachments/assets/ed8c4d9e-31eb-4c9d-a12a-e2936e726e48)
+
+
 
 
 
