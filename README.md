@@ -6,7 +6,7 @@
 # NHS Healthcare analysis - Project Overview
 
 
-## The goal of this project is to investigate the allocation of resources to the various sectors. To glean insight into how to appropriate practitioners across the NHS.
+### The goal of this project is to investigate the allocation of resources to the various sectors. To glean insight into how to appropriate practitioners across the NHS.
 
 #### Founded in 1948, the National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, serving millions of patients across England, Scotland, Wales, and Northern Ireland. To enhance its services and outreach, the NHS has hired a new data analytics team to evaluate the effectiveness of these campaigns and their impact on patient engagement and health outcomes.
 —————————————————————————————————————————————————————————————————————
@@ -14,7 +14,7 @@
 Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
 
-The project's focus was to determine the allocation of services and which services should require more than the other. Hence the project concentrated on these factors.
+The project's focus was to determine the allocation of services
 
 # To evaluate campaign performance, we focused on the following key aspects:
 
