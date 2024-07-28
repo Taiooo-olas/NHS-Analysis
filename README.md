@@ -18,17 +18,17 @@ The project's focus was to determine the allocation of services and which servic
 
 # To evaluate campaign performance, we focused on the following key aspects:
 
-### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
+## 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
 
-### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
+## 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
-### 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
+## 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
 
-### 4. Are there significant differences in appointment demand and type based on healthcare professional type and availability?
+## 4. Are there significant differences in appointment demand and type based on healthcare professional type and availability?
 
-### 5. What patterns can be observed in appointment data across different months, and how do these patterns inform seasonal or time-based resource allocation?
+## 5. What patterns can be observed in appointment data across different months, and how do these patterns inform seasonal or time-based resource allocation?
 
-### 6. What are the five locations with the highest number of records?
+## 6. What are the five locations with the highest number of records?
 
 
 
