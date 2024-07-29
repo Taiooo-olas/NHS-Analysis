@@ -6,7 +6,7 @@
 # NHS Healthcare analysis - Project Overview
 
 
-### The goal of this project is to investigate the allocation of resources to the various sectors.
+#### The goal of this project is to investigate the allocation of resources to the various sectors.
 
 Founded in 1948, the National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, serving millions of patients across England, Scotland, Wales, and Northern Ireland. To enhance its services and outreach, the NHS has hired a new data analytics team to evaluate the effectiveness of these campaigns and their impact on patient engagement and health outcomes.
 —————————————————————————————————————————————————————————————————————
