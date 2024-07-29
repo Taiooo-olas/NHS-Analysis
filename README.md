@@ -11,9 +11,9 @@
 Founded in 1948, the National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, serving millions of patients across England, Scotland, Wales, and Northern Ireland. To enhance its services and outreach, the NHS has hired a new data analytics team to evaluate the effectiveness of these campaigns and their impact on patient engagement and health outcomes.
 ————————————————————————————————————————————————————————————————————————
 
-The project's focus was to determine the allocation of services
+## The project's focus was to determine the allocation of services and to evaluate campaign performance, 
 
-# To evaluate campaign performance, we focused on the following key aspects:
+We focused on the following key aspects:
 
 #### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
 
