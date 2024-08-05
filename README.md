@@ -21,7 +21,7 @@ We focused on the following key aspects:
 
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
-![staus](https://github.com/user-attachments/assets/d3fe0f3e-abe8-48be-96de-92aebaf7afa7)
+![Webp net-resizeimage (7)](https://github.com/user-attachments/assets/168ae801-f6c2-44a6-a20f-652dd2f3e2e6)
 
 #### 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
 
