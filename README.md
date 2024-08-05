@@ -17,7 +17,8 @@ We focused on the following key aspects:
 
 #### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
 
-![by region](https://github.com/user-attachments/assets/06ce0074-4985-4000-bef9-771df55ec28e)
+![by region](https://github.com/user-attachments/assets/06ce0074-4985-4000-bef9-771df55ec28e) | 
+![count of appointment reg](https://github.com/user-attachments/assets/ae418507-ffef-4554-80dd-63600152e256)
 
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
