@@ -15,8 +15,6 @@ Founded in 1948, the National Health Service (NHS) is the publicly funded health
 
 We focused on the following key aspects:
 
-![by practice](https://github.com/user-attachments/assets/e41f9586-dd37-43fa-adb6-9896312b05e3)
-
 #### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
 
 ![don](https://github.com/user-attachments/assets/1ba0744f-92c4-4efd-86e8-84e0d9c3cc0a)
