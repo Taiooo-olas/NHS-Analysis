@@ -17,7 +17,8 @@ We focused on the following key aspects:
 
 #### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
 
-https://private-user-images.githubusercontent.com/116596686/355174404-e5599fbb-0b79-4ce5-92ad-931c6a7facab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NzU0MzAsIm5iZiI6MTcyMjg3NTEzMCwicGF0aCI6Ii8xMTY1OTY2ODYvMzU1MTc0NDA0LWU1NTk5ZmJiLTBiNzktNGNlNS05MmFkLTkzMWM2YTdmYWNhYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNVQxNjI1MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTMxNmMwNGYzZjQwN2E1MDkyZGQ5MTk2ZmYxNWFjMmJmODZjMDI0NzVjN2YyZTc4OGE5YTYyM2E2ZjA2NDViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KBcCFT8w6ciphgVgul0MDJMgLbGHueAcIPJBKJY5lC4
+https://github.com/Taiooo-olas/NHS-Analysis/issues/1#issue-2448966285
+
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
 #### 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
