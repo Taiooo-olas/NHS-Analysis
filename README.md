@@ -29,9 +29,7 @@ We focused on the following key aspects:
 
 #### 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
 
-![attendance  Heatmap](https://github.com/user-attachments/assets/5e4c81a9-1812-43a8-a6b4-6961bf627e54)
-
-
+![heatmp](https://github.com/user-attachments/assets/33026982-d76f-42aa-89c5-774f0e1ffcd8)
 
 #### 4. Are there significant differences in appointment demand and type based on healthcare professional type and availability?
 
