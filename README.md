@@ -31,14 +31,13 @@ We focused on the following key aspects:
 
 ![heatmp](https://github.com/user-attachments/assets/33026982-d76f-42aa-89c5-774f0e1ffcd8)
 
-#### 4. Are there significant differences in appointment demand and type based on healthcare professional type and availability?
-
 #### 5. What patterns can be observed in appointment data across different months, and how do these patterns inform seasonal or time-based resource allocation?
 
 ![count:appt](https://github.com/user-attachments/assets/dea46a76-f390-4b81-b033-84ce34d015de)
 
 
 #### 6. What are the five locations with the highest number of records?
+
 
 
 
