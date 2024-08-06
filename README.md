@@ -19,8 +19,6 @@ We focused on the following key aspects:
 
 ![don](https://github.com/user-attachments/assets/1ba0744f-92c4-4efd-86e8-84e0d9c3cc0a)
 
-
-
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
 ![Three](https://github.com/user-attachments/assets/b3785b4a-5bfe-4247-8938-62062e198b5a)
@@ -37,6 +35,8 @@ We focused on the following key aspects:
 
 
 #### 6. What are the five locations with the highest number of records?
+
+![nbj](https://github.com/user-attachments/assets/f1b7e756-bd17-488a-b432-fecb85ebaf57)
 
 
 
