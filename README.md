@@ -15,9 +15,6 @@ Founded in 1948, the National Health Service (NHS) is the publicly funded health
 
 We focused on the following key aspects:
 
-#### 1. Which types of appointments (by mode and status) have the highest demand, and how does this vary across different regions?
-
-![don](https://github.com/user-attachments/assets/1ba0744f-92c4-4efd-86e8-84e0d9c3cc0a)
 
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
@@ -29,9 +26,6 @@ We focused on the following key aspects:
 
 ![heatmp](https://github.com/user-attachments/assets/33026982-d76f-42aa-89c5-774f0e1ffcd8)
 
-#### 5. What patterns can be observed in appointment data across different months, and how do these patterns inform seasonal or time-based resource allocation?
-
-![count:appt](https://github.com/user-attachments/assets/dea46a76-f390-4b81-b033-84ce34d015de)
 
 
 #### 6. What are the five locations with the highest number of records?
