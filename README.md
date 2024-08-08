@@ -11,7 +11,7 @@
 Founded in 1948, the National Health Service (NHS) is the publicly funded healthcare system of the United Kingdom, serving millions of patients across England, Scotland, Wales, and Northern Ireland. To enhance its services and outreach, the NHS has hired a new data analytics team to evaluate the effectiveness of these campaigns and their impact on patient engagement and health outcomes.
 ————————————————————————————————————————————————————————————————————————
 
-## The project's focus was to determine the allocation of services and to evaluate campaign performance, 
+## The project's focus was to determine the allocation of services and to evaluate campaign performance, Based on these three datasets. 
 <img width="800" alt="Dataset all" src="https://github.com/user-attachments/assets/acda418b-9a91-4bbb-bc89-78f4499acbd9">
 
 We focused on the following key aspects:
