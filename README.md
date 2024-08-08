@@ -18,24 +18,10 @@ Founded in 1948, the National Health Service (NHS) is the publicly funded health
 
 To evaluate campaign performance, we focused on the following key metrics:
 
+#### 1. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
 
-
-#### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
-
-
-- Differential between the data shows that ....
-
-#### 3. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types?
-
-![heatmp](https://github.com/user-attachments/assets/33026982-d76f-42aa-89c5-774f0e1ffcd8)
-
-
-
-#### 6. What are the five locations with the highest number of records?
-
-![nbj](https://github.com/user-attachments/assets/f1b7e756-bd17-488a-b432-fecb85ebaf57)
-
+#### 2. What is the distribution of appointment durations (e.g., 6-10 minutes, 21-30 minutes) and how does it correlate with appointment status and healthcare professional types
 
 
 # Presentation Sample 
