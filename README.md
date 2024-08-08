@@ -14,12 +14,15 @@ Founded in 1948, the National Health Service (NHS) is the publicly funded health
 ## The project's focus was to determine the allocation of services and to evaluate campaign performance, Based on these three datasets. 
 <img width="800" alt="Dataset all" src="https://github.com/user-attachments/assets/acda418b-9a91-4bbb-bc89-78f4499acbd9">
 
-We focused on the following key aspects:
+# Insights Summary
+
+To evaluate campaign performance, we focused on the following key metrics:
+
+
 
 
 #### 2. How does the time between booking and appointment impact the appointment status and overall patient attendance?
 
-![Three](https://github.com/user-attachments/assets/b3785b4a-5bfe-4247-8938-62062e198b5a)
 
 - Differential between the data shows that ....
 
