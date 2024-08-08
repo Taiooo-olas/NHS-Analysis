@@ -40,13 +40,10 @@ We focused on the following key aspects:
 
 
 
+Presentation Sample 
 
+![Slide8](https://github.com/user-attachments/assets/bd8ddf66-6f78-4f0a-b8dc-d8611748e85d)
 
-
-
-
-
-[NHS Key recommentdations.pdf](https://github.com/user-attachments/files/16551293/NHS.Key.recommentdations.pdf)
 
 
 
