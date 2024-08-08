@@ -12,6 +12,7 @@ Founded in 1948, the National Health Service (NHS) is the publicly funded health
 ————————————————————————————————————————————————————————————————————————
 
 ## The project's focus was to determine the allocation of services and to evaluate campaign performance, 
+<img width="800" alt="Dataset all" src="https://github.com/user-attachments/assets/acda418b-9a91-4bbb-bc89-78f4499acbd9">
 
 We focused on the following key aspects:
 
